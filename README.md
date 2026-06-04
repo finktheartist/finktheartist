@@ -15,6 +15,7 @@
 
 *Where graphic design intuition meets autonomous systems engineering.*
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-finkelman/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://finktheartist.tech)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:finktheartist@gmail.com)
 
@@ -73,7 +74,7 @@ roots       = ["Graphic Design", "Digital Media", "Screen Printing & Production"
 
 - 🎓 **Columbia College Chicago** — Internship & Career Advisor, bridging students with emerging tech industry paths
 - 🖨️ Founded and operated a **screen printing business** serving schools, restaurants, healthcare, and events
-- 🤖 Building personal AI infrastructure I actually use every day
+- 🤖 Built and run **[Glyph / Hermes](https://github.com/finktheartist/glyph-autonomous-assistant-system)** — a persistent multi-agent assistant with its own **[agent-readable knowledge vault](https://github.com/finktheartist/glyph-brain)** — in production daily
 - 🎨 Design background that never left — every system I build has an eye for clarity and craft
 - 📍 Chicago, IL
 
