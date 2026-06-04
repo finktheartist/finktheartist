@@ -15,10 +15,8 @@
 
 *Where graphic design intuition meets autonomous systems engineering.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://YOUR_RESUME_LINK)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://finktheartist.tech)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:finktheartist@gmail.com)
 
 </div>
 
@@ -50,17 +48,10 @@ A modular Flask-based task manager with dark UI, modal task creation, priority &
 
 ---
 
-### 📄 [Internship Form Parser](https://github.com/finktheartist/internship-form-parser)
-Python tool to extract structured fields from internship forms — paste or PDF input supported. Built for real workflow use at Columbia College Chicago.
+### 🎭 [Diorama Viewer](https://github.com/finktheartist/diorama-viewer)
+A standalone Three.js viewer for `.glb` models with custom toon/cel-shading, an SSAO + outline post-processing stack, lighting rig, and in-browser turntable recording. Fully self-contained, no build step. [Live demo →](https://finktheartist.tech/portfolio)
 
-> `Python · PDF parsing · data extraction`
-
----
-
-### 📰 [News API Explorer](https://github.com/finktheartist/News_API)
-API integration project for pulling and filtering live news data.
-
-> `Python · REST APIs`
+> `Three.js · WebGL · GLSL · post-processing · 3D`
 
 ---
 
