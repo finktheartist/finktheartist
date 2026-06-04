@@ -34,7 +34,7 @@ I think in systems. I ship in Python.
 
 ## `> ls projects/`
 
-### 🤖 [Glyph / OpenClaw — Autonomous Multi-Agent Assistant](https://github.com/finktheartist/glyph-autonomous-assistant-system)
+### 🤖 [Glyph Autonomous Multi-Agent Assistant](https://github.com/finktheartist/glyph-autonomous-assistant-system)
 A personal AI operations system with multi-persona routing, long-term memory, Google Workspace integration (Gmail, Calendar, Sheets), Telegram delivery, and proactive morning briefings. Built with Python, OpenAI, and DeepSeek. Fully tested, privacy-audited, and running in production daily.
 
 > `agent orchestration · memory systems · LLM bridging · Google Workspace APIs · Telegram · pytest`
