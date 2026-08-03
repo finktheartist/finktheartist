@@ -49,10 +49,12 @@ A modular Flask-based task manager with dark UI, modal task creation, priority &
 
 ---
 
-### 🎭 [Diorama Viewer](https://github.com/finktheartist/diorama-viewer)
-A standalone Three.js viewer for `.glb` models with custom toon/cel-shading, an SSAO + outline post-processing stack, lighting rig, and in-browser turntable recording. Fully self-contained, no build step. [Live demo →](https://finktheartist.tech/portfolio)
+### 🎭 [From Sketch to 3D](https://finktheartist.tech/sketchbook-ml-to-3d)
+Sketchbook drawings become rigged, walking 3D characters that run in a browser. Orthographic plate generation, image-to-3D reconstruction, auto-rigging, and a self-contained Three.js viewer with toon/cel-shading, an SSAO + outline post-processing stack, and in-browser turntable recording — no build step.
 
-> `Three.js · WebGL · GLSL · post-processing · 3D`
+The pipeline gates itself: a model-as-judge inspects the plates against a written rubric *before* any paid generation runs, and inspects the mesh after each stage. It refuses to spend when it predicts a defect, and escalates to a human when the same defect survives three rounds.
+
+> `Three.js · WebGL · GLSL · image-to-3D · auto-rigging · model-as-judge · post-processing`
 
 ---
 
