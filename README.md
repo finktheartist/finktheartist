@@ -42,10 +42,10 @@ A personal AI operations system with multi-persona routing, long-term memory, Go
 
 ---
 
-### ✅ [Task Manager](https://github.com/finktheartist/task-manager)
-A modular Flask-based task manager with dark UI, modal task creation, priority & due date management, and JSON persistence.
+### 🧠 [Glyph Brain](https://github.com/finktheartist/glyph-brain)
+The memory layer underneath the agent — an agent-readable Obsidian/Zettelkasten vault with a defined taxonomy, note templates, and an automated ingestion pipeline. Built so a model can navigate a knowledge base the same way a person does.
 
-> `Flask · Python · CSS · JSON persistence`
+> `knowledge management · RAG · Zettelkasten · ingestion pipelines`
 
 ---
 
